@@ -1,0 +1,6 @@
+framework module BLCache {
+  umbrella header "BLCache-umbrella.h"
+
+  export *
+  module * { export * }
+}

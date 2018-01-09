@@ -1,0 +1,28 @@
+PODS:
+  - AnyFormatProtocol (0.4.0)
+  - BLCache (0.1.0):
+    - AnyFormatProtocol
+    - YYCache
+  - BLDebugTools (0.1.1):
+    - SnapKit
+  - SnapKit (4.0.0)
+  - YYCache (1.0.4)
+
+DEPENDENCIES:
+  - BLCache (from `../`)
+  - BLDebugTools
+
+EXTERNAL SOURCES:
+  BLCache:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AnyFormatProtocol: 4df38a96d761a43343616747e4aa744c35bf5e52
+  BLCache: 789764e9e938a35caaf7a74b1c92977f4c359d1a
+  BLDebugTools: bce6b8fc06362207dfbd7fc094093140db2f72af
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+
+PODFILE CHECKSUM: 825e7276b664d86936ba0ae8ebf61a33663df995
+
+COCOAPODS: 1.3.1

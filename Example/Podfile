@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'BLCache_Example' do
+  pod 'BLCache', :path => '../'
+  pod 'BLDebugTools'
+
+  target 'BLCache_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
