@@ -2,7 +2,7 @@
 //  BLConfig.h
 //  Pods
 //
-//  Created by bigl on 2017/10/17.
+//  Created by linhey on 2017/10/17.
 //
 
 #ifndef BLConfig_h
